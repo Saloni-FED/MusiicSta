@@ -1,5 +1,5 @@
 
-# MusicSta 🎶
+# MusiicSta 🎶
 
 MusicSta is a music app which was created using pure HTML, CSS and JAVASCRIPT .
 
