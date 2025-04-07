@@ -1,4 +1,4 @@
-# Creating dummy pull request to Check Github Automations
+# Creating dummy pull request to Check Github Automations (pull request)
 # MusiicSta 🎶
 
 MusicSta is a music app which was created using pure HTML, CSS and JAVASCRIPT .
